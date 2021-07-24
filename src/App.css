@@ -1,5 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
+  background-color: white;
 }
 
 h1,
@@ -16,4 +17,9 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }

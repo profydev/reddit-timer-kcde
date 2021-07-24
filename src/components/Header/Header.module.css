@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 5rem 2rem 5rem;
+  align-items: center;
+}
+
+.nav a {
+  display: inline-block;
+}
+
+.nav > * + * {
+  margin-left: 25px;
+}
+.logo {
+  display: block;
+}
