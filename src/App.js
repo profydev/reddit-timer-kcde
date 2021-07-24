@@ -7,6 +7,7 @@ function App() {
   return (
     <Router>
       <Header />
+     
     </Router>
   );
 }
