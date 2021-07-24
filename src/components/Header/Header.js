@@ -9,8 +9,8 @@ const Header = () => (
       </a>
     </div>
     <nav className={styles.nav}>
-      <a href="#search">Search</a>
-      <a href="#how"> How it works</a>
+      <a href="/search/javascript">Search</a>
+      <a href="#how-it-works"> How it works</a>
       <a href="#about">About</a>
     </nav>
   </header>
